@@ -9,5 +9,7 @@ Ubuntu-Installationsdaten:
 * 32 GB HDD
 * Wichtig: auf Laufwerk "D" installieren!
 
-
-
+### SW-Installation
+* sudo apt update
+* sudo apt install git
+* sudo apt install python3
